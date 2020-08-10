@@ -1,0 +1,3 @@
+- chào hỏi các thứ . hỏi tên lưu biến tạm
+- hỏi thông tin 
+- hỏi màu thay màu backgroud ( nếu chọn màu không có thì cho ra màu mặc định kèm thông báo :))
